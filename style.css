@@ -1,5 +1,5 @@
 .donate {
-    background-image: url(donate-today-main/images/donation7.jpg);
+    background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     width: 100%px;
     background-position: 100%px;
@@ -47,10 +47,18 @@
 
 .half {
     text-align: center;
+    width: 60%;
 }
 
 .expireance-iteam {
-    box-shadow: 10px 10px 80px gray;
+    box-shadow: 20px 10px 40px gray;
+    margin: 3px;
+    text-align: center;
+
+}
+
+.maje {
+    text-align: center;
 }
 
 .broder {
