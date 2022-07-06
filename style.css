@@ -85,3 +85,7 @@
     background-image: url(icons/Frame-1.png);
     background-repeat: no-repeat;
 }
+
+.halfer {
+    width: 50%;
+}
