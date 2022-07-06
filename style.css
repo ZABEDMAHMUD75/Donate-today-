@@ -5,6 +5,10 @@
     background-position: 100%px;
 }
 
+.button1 {
+    padding-left: 50%;
+}
+
 .font {
     font-size: 40px;
     text-align: center;
@@ -30,6 +34,14 @@
 
 }
 
+.button-padding {
+    padding-left: 40%;
+}
+
+.button3 {
+    padding-left: 25%;
+}
+
 .dt {
     font-size: 40px;
     text-align: center;
@@ -52,7 +64,7 @@
 }
 
 .expireance-iteam {
-    box-shadow: 20px 10px 40px gray;
+    box-shadow: 10px 7px 15px gray;
     margin: 3px;
     text-align: center;
 
@@ -64,30 +76,37 @@
 
 .broder {
 
-    border: 3px solid orange;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: rgb(250, 178, 178);
 }
 
 .bord {
-    broder: 1px solid white;
+
+    background-color: rgb(255, 255, 255);
+
 }
 
 .other {
     border-bottom-style: 3px gray;
+
 }
 
 .foode {
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
+    background-color: azure;
 }
 
 .frame {
     background-image: url(icons/shelter.png);
     background-repeat: no-repeat;
+    background-color: rgb(253, 227, 195);
 }
 
 .shelte {
     background-image: url(icons/Frame-1.png);
     background-repeat: no-repeat;
+    background-color: rgb(247, 222, 193);
 }
 
 .halfer {
@@ -106,4 +125,47 @@
     width: 50%;
     padding-left: 50%;
     border-radius: 10px;
+}
+
+.majer {
+
+    width: 50%;
+    padding-left: 35%;
+}
+
+.maj {
+    width: 50%;
+    padding-left: 25%;
+}
+
+.emg {
+    padding-left: 25%;
+    box-shadow: 5px 5px 20px rgb(237, 210, 161)
+}
+
+.buttons {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(245, 92, 92));
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+}
+
+.padd {
+    padding-left: 40%;
+}
+
+.pooter {
+    text-align: center;
+    background-color: black;
+}
+
+.color {
+    color: rgb(239, 11, 11);
+}
+
+.colorr {
+    color: antiquewhite;
 }
