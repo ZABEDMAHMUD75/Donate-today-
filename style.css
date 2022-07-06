@@ -17,7 +17,7 @@
 .font {
     font-size: 40px;
     text-align: center;
-    color: white;
+    color: lightgoldenrodyellow;
 
 
 }
@@ -28,7 +28,14 @@
 
 .fonte {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: lightgoldenrodyellow;
+
+}
+
+.pfonte {
+    font-size: 20px;
+    text-align: center;
+    color: gray;
 
 }
 
@@ -62,6 +69,7 @@
     font-size: 20px;
     text-align: center;
     color: gray;
+    margin: 50px;
 }
 
 .half {
@@ -103,8 +111,9 @@
 
 .broder {
 
-    border: 2px solid rgb(255, 0, 0);
-    background-color: rgb(246, 207, 207);
+    border: 2px solid rgb(255, 174, 0);
+    background-color: rgb(247, 233, 208);
+    color: rgb(255, 140, 0);
 }
 
 .bord {
@@ -116,6 +125,7 @@
 .taka {
     display: flex;
     justify-content: center;
+    color: rgb(98, 96, 96);
 }
 
 .amount {
@@ -148,13 +158,15 @@ hr {
 
 .butmagin {
     margin-top: 15px;
+    margin: 30px;
 }
 
-/* .foode { 
+.foode {
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
     background-color: azure;
     padding-top: 40px;
+    text-align: left;
 
 }
 
@@ -164,6 +176,8 @@ hr {
     background-repeat: no-repeat;
     background-color: rgb(253, 227, 195);
     padding-top: 40px;
+    text-align: left;
+    margin: 0px 20px;
 }
 
 .shelte {
@@ -171,7 +185,8 @@ hr {
     background-repeat: no-repeat;
     background-color: rgb(247, 222, 193);
     padding-top: 40px;
-} */
+    text-align: left;
+}
 
 .halfer {
     width: 50%;
@@ -193,7 +208,7 @@ hr {
 }
 
 .majer {
-    font-size: 55px;
+    font-size: 50px;
     width: 50%;
     padding-left: 35%;
 }
@@ -228,7 +243,7 @@ hr {
 
 .inpurt {
 
-    background-color: rgb(251, 213, 198);
+    background-color: rgb(249, 230, 223);
     width: 50%;
     padding: 100px 0px;
     text-align: center;
@@ -255,7 +270,7 @@ hr {
 
 .color {
     padding-top: 35px;
-    color: rgb(239, 11, 11);
+    color: rgb(239, 121, 11);
 }
 
 .colorr {
