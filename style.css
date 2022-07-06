@@ -57,12 +57,21 @@
     color: gray;
 }
 
-.flexible-container {
-    display: flex;
-}
-
 .half {
     text-align: center;
+
+}
+
+.flexible-containe {
+    display: flex;
+    justify-content: space-between;
+}
+
+.halke {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 60%;
 
 }
@@ -76,6 +85,7 @@
 
     margin: 3px;
     text-align: center;
+    padding: 20px;
 
 }
 
@@ -95,25 +105,45 @@
 
 }
 
-.other {
-    padding-left: 25%;
-    color: gray;
+.taka {
+    display: flex;
+    justify-content: center;
 }
 
+.amount {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    color: gray;
+    height: 5px;
+    width: 80%;
+}
+
+.other {
+    color: gray;
+    margin-bottom: 0px;
+}
+
+
 .button2 {
+    margin-top: 15px;
     color: white;
-    text-align: center;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
 }
 
-.foode {
+/* .foode { 
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
     background-color: azure;
     padding-top: 40px;
+
 }
 
 .frame {
@@ -129,7 +159,7 @@
     background-repeat: no-repeat;
     background-color: rgb(247, 222, 193);
     padding-top: 40px;
-}
+} */
 
 .halfer {
     width: 50%;
@@ -147,6 +177,7 @@
     width: 50%;
     padding-left: 50%;
     border-radius: 10px;
+    margin-right: 20px;
 }
 
 .majer {
