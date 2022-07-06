@@ -27,6 +27,7 @@
     border-radius: 5px;
 
 
+
 }
 
 .dt {
@@ -68,4 +69,19 @@
 
 .other {
     border-bottom-style: 3px gray;
+}
+
+.foode {
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+}
+
+.frame {
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+}
+
+.shelte {
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
 }
