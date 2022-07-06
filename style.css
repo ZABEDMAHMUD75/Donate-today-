@@ -1,0 +1,63 @@
+.donate {
+    background-image: url(donate-today-main/images/donation7.jpg);
+    background-repeat: no-repeat;
+    width: 100%px;
+    background-position: 100%px;
+}
+
+.font {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.fonte {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 7px;
+}
+
+.link-button {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+}
+
+.dt {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.pfont {
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.half {
+    text-align: center;
+}
+
+.expireance-iteam {
+    box-shadow: 10px 10px 80px gray;
+}
+
+.broder {
+
+    border: 3px solid orange;
+}
+
+.other {
+    border-bottom-style: 3px gray;
+}
