@@ -1,28 +1,35 @@
 .donate {
     background-image: url(images/Capture.PNG);
     background-repeat: no-repeat;
-    width: 100%px;
-    background-position: 100%px;
+    /* width: 100%px; */
+    background-position: center;
+    background-size: cover;
 }
 
-.button1 {
-    padding-left: 50%;
+.donatemain {
 
-
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0px;
 }
 
 .font {
     font-size: 40px;
     text-align: center;
     color: white;
-    padding-top: 10px;
+
+
+}
+
+.font h1 {
+    margin: 0px;
 }
 
 .fonte {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 7px;
+
 }
 
 .link-button {
@@ -78,7 +85,8 @@
 
 .donatePlan {
     font-size: 40px;
-    padding-left: 23%;
+    margin-bottom: 0px;
+
 }
 
 .expireance-iteam {
@@ -130,12 +138,16 @@ hr {
 
 
 .button2 {
-    margin-top: 15px;
+
     color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.butmagin {
+    margin-top: 15px;
 }
 
 /* .foode { 
@@ -193,7 +205,7 @@ hr {
 }
 
 .emg {
-    padding-left: 25%;
+
     box-shadow: 5px 5px 20px rgb(237, 210, 161)
 }
 
@@ -207,11 +219,31 @@ hr {
 
 }
 
-.padd {
-    padding-left: 20%;
-    margin-inline: 10px;
-
+.sectioninput {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0px;
 }
+
+.inpurt {
+
+    background-color: rgb(251, 213, 198);
+    width: 50%;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+
+
+.inputi {
+
+    padding: 10px;
+    border: none;
+    background-color: lightgray;
+    margin-right: 0px;
+}
+
 
 .pooter {
     text-align: center;
