@@ -1,5 +1,5 @@
 .donate {
-    background-image: url(images/donation7.jpg);
+    background-image: url(images/Capture.PNG);
     background-repeat: no-repeat;
     width: 100%px;
     background-position: 100%px;
@@ -7,6 +7,9 @@
 
 .button1 {
     padding-left: 50%;
+
+
+
 }
 
 .font {
@@ -61,10 +64,16 @@
 .half {
     text-align: center;
     width: 60%;
+
+}
+
+.donatePlan {
+    font-size: 40px;
+    padding-left: 23%;
 }
 
 .expireance-iteam {
-    box-shadow: 10px 7px 15px gray;
+
     margin: 3px;
     text-align: center;
 
@@ -77,36 +86,49 @@
 .broder {
 
     border: 2px solid rgb(255, 0, 0);
-    background-color: rgb(250, 178, 178);
+    background-color: rgb(246, 207, 207);
 }
 
 .bord {
 
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(246, 242, 242);
 
 }
 
 .other {
-    border-bottom-style: 3px gray;
+    padding-left: 25%;
+    color: gray;
+}
 
+.button2 {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
 }
 
 .foode {
     background-image: url(icons/food.png);
     background-repeat: no-repeat;
     background-color: azure;
+    padding-top: 40px;
 }
 
 .frame {
+
     background-image: url(icons/shelter.png);
     background-repeat: no-repeat;
     background-color: rgb(253, 227, 195);
+    padding-top: 40px;
 }
 
 .shelte {
     background-image: url(icons/Frame-1.png);
     background-repeat: no-repeat;
     background-color: rgb(247, 222, 193);
+    padding-top: 40px;
 }
 
 .halfer {
@@ -128,14 +150,15 @@
 }
 
 .majer {
-
+    font-size: 55px;
     width: 50%;
     padding-left: 35%;
 }
 
 .maj {
+    font-size: 20px;
     width: 50%;
-    padding-left: 25%;
+    padding-left: 30%;
 }
 
 .emg {
@@ -154,15 +177,21 @@
 }
 
 .padd {
-    padding-left: 40%;
+    padding-left: 20%;
+    margin-inline: 10px;
+
 }
 
 .pooter {
     text-align: center;
     background-color: black;
+    width: 100%;
+    height: 150px;
+
 }
 
 .color {
+    padding-top: 35px;
     color: rgb(239, 11, 11);
 }
 
